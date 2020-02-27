@@ -47,13 +47,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require trntv/yii2-aceeditor "*"
+php composer.phar require slexx/yii2-aceeditor "*"
 ```
 
 or add
 
 ```
-"trntv/yii2-aceeditor": "*"
+"slexx/yii2-aceeditor": "*"
 ```
 
 to the require section of your `composer.json` file.
